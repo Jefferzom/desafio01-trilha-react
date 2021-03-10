@@ -1,6 +1,6 @@
 # Desafio01-trilha-react
 
-Trilha focada interamente em React.js
+Trilha focada inteiramente em React.js
 
 <ul>
  <h1 align="center">Aprendizagem do Desafio</h1>
